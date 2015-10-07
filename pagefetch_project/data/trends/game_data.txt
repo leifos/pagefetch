@@ -1,0 +1,147 @@
+BusinessPeople,http://www.achievement.org/autodoc/page/win0bio-1,4
+BusinessPeople,http://www.oprah.com/index.html,0
+BusinessPeople,http://ownca.oprah.com/Home.aspx,17
+BusinessPeople,http://www.huffingtonpost.com/news/oprah,12
+BusinessPeople,http://omg.yahoo.com/oprah-winfrey/,20
+BusinessPeople,http://www.gatesfoundation.org/,8
+BusinessPeople,http://www.contactmusic.com/info/bono,9
+BusinessPeople,http://www.u2.com/index/home,6
+BusinessPeople,http://www.nndb.com/people/390/000024318/,17
+BusinessPeople,http://www.askmen.com/celebs/men/entertainment/31_bono.html,15
+BusinessPeople,http://www.ted.com/speakers/bono.html,26
+BusinessPeople,http://acepilots.com/pioneer/hughes.html,5
+BusinessPeople,http://www.apa.org/monitor/julaug05/hughes.aspx,7
+BusinessPeople,http://www.barnesandnoble.com/s/howard-hughes?dref=18933,11
+BusinessPeople,http://uncyclopedia.wikia.com/wiki/Howard_Hughes,27
+BusinessPeople,http://en.wikipedia.org/wiki/Richard_Branson,0
+Actors,http://www.huffingtonpost.com/news/amanda-bynes/,4
+Actors,http://www.tmz.com/person/amanda-bynes/,9
+Actors,http://www.tvguide.com/celebrities/amanda-bynes/139292,22
+Actors,http://www.eonline.com/news/selena_gomez,7
+Actors,https://myspace.com/selenagomez,5
+Actors,http://www.youtube.com/watch?v=EgT_us6AsDg,19
+Actors,http://www.tvballa.com/2013/07/100313/selena-gomez-parties-david-henrie-after-justin-bieber-reunion,17
+Actors,http://www.popsugar.com/Selena-Gomez,21
+Actors,http://www.eonline.com/news/angelina_jolie,7
+Actors,http://omg.yahoo.com/angelina-jolie/,5
+Actors,http://movies.msn.com/celebrities/celebrity/angelina-jolie/,18
+Actors,http://www.accesshollywood.com/angelina-jolie,24
+Actors,http://perezhilton.com/category/miley-cyrus/,4
+Actors,http://www.mileycyrus.com/,0
+Actors,http://www.huffingtonpost.com/news/miley-cyrus,10
+Actors,https://myspace.com/mileycyrus,12
+Actors,http://simple.wikipedia.org/wiki/Miley_Cyrus,27
+Actors,http://simple.wikipedia.org/wiki/Justin_Timberlake,3
+Actors,http://ellen.4thdimension.info/,16
+Actors,http://www.people.com/people/ellen_degeneres,10
+Actors,http://abcnews.go.com/topics/entertainment/actresses/jennifer-aniston.htm,26
+Actors,http://www.kstewartfan.org/,3
+Actors,http://www.eonline.com/news/kristen_stewart,7
+Actors,http://www.eonline.com/news/robert_downey_jr,11
+Actors,http://movies.yahoo.com/news/robert-downey-jr-promotes-iron-man-3-beijing-110152528.html,13
+Actors,http://www.jango.com/music/Robert+Downey+Jr+?c=1,25
+Actors,http://www.imdb.com/name/nm0000129/,2
+Actors,http://www.biography.com/people/tom-cruise-9262645,8
+Actors,http://www.movies.com/actors/tom-cruise/p284917,19
+Actors,http://movies.msn.com/celebrities/celebrity/tom-cruise/,15
+Actors,http://www.fandango.com/tomcruise/overview/p86295,27
+Actors,http://en.wikipedia.org/wiki/Megan_Fox,0
+Actors,http://www.esquire.com/women/women-we-love/megan-fox-video,4
+Actors,http://www.tvguide.com/celebrities/megan-fox/190557,19
+Actors,http://www.people.com/people/megan_fox,12
+Actors,https://myspace.com/officialmegandenisefox,28
+Actors,http://hollywoodlife.com/celeb/robert-pattinson/,6
+Actors,http://www.eonline.com/news/robert_pattinson,12
+Actors,http://www.huffingtonpost.com/news/robert-pattinson/,15
+Actors,http://www.people.com/people/article/0,,20713971,00.html,28
+Actors,http://boards.soapcentral.com/showthread.php?893547-eBay-auction-signed-Jeanne-Cooper-(Kay-becomes-a-Minister-certificate&p=18463411,7)
+Actors,http://en.wikipedia.org/wiki/Daytime_Emmy_Award_for_Outstanding_Lead_Actress_in_a_Drama_Series,3
+Actors,http://www.amazon.com/Jeanne-Cooper/e/B008DYFKK0,15
+Universities,http://www.extension.harvard.edu/distance-education,28
+Universities,http://www.law.ucla.edu/,8
+Universities,http://www.ucla.edu/,0
+Universities,http://grad-schools.usnews.rankingsandreviews.com/best-graduate-schools/top-law-schools/university-of-california-los-angeles-03018,15
+Universities,http://www.forbes.com/colleges/university-of-california-los-angeles/,12
+Universities,http://www.4icu.org/reviews/5147.htm,27
+Universities,http://med.stanford.edu/index.html,3
+Universities,http://colleges.usnews.rankingsandreviews.com/best-colleges/stanford-university-1305,9
+Universities,http://www.gsb.stanford.edu/,17
+Universities,http://philosophy.stanford.edu/,13
+Universities,http://communication.stanford.edu/,28
+Universities,http://www.universityofcalifornia.edu/,0
+Universities,http://umflint.edu/,20
+Universities,http://www.gopsusports.com/,7
+Universities,http://search.psu.edu/,6
+Universities,http://gradsch.psu.edu/,10
+Universities,http://undergrad.osu.edu/,15
+Universities,http://espn.go.com/college-football/team/_/id/194/ohio-state-buckeyes,20
+Universities,http://education.washington.edu/index.html,3
+Universities,http://education.washington.edu/index.html,3
+Universities,http://www.artsci.washington.edu/index.asp,11
+Universities,http://topics.nytimes.com/top/reference/timestopics/organizations/u/university_of_washington/index.html?inline=nyt-org,15
+Universities,http://www.polisci.washington.edu/home.html,27
+Universities,http://en.wikipedia.org/wiki/Cornell_University,1
+Universities,http://cuinfo.cornell.edu/,9
+Universities,http://www.johnson.cornell.edu/,15
+Universities,http://www.johnson.cornell.edu/,15
+Universities,http://www.theuniversityfaculty.cornell.edu/,27
+Games,http://www.ebay.com/bhp/pathfinder-roleplaying,6
+Games,http://paizo.com/pathfinder,4
+Games,http://www.miniaturemarket.com/role-playing-games/pathfinder.html,16
+Games,http://www.goodreads.com/book/show/15894440-pathfinder-roleplaying-game,18
+Games,http://www.walmart.com/ip/Pathfinder-Roleplaying-Game-Core-Rulebook-Pathfinder-Roleplaying-Game-Core-Rulebook/10832226,20
+Games,http://paizo.com/pathfinderRPG,0
+Games,http://www.amazon.com/Pathfinder-Roleplaying-Game-Core-Rulebook/dp/1601251505,3
+Games,http://rpggeek.com/rpg/1627/pathfinder-roleplaying-game,19
+Games,https://secure.paizo.com/pathfinderRPG,10
+Kids' TV,http://spongebob.nick.com/,0
+Kids' TV,http://www.ebay.com/sch/i.html?_nkw=spongebob+squarepants,10
+Kids' TV,http://www.ebay.com/sch/i.html?_nkw=spongebob+squarepants,10
+Kids' TV,http://spongebob.lego.com/en-US/default.aspx,22
+Kids' TV,http://www.tv.com/shows/adventure-time/,6
+Kids' TV,http://www.cartoonnetwork.com/tv_shows/adventuretime/video/index.html,3
+Kids' TV,http://www.last.fm/music/Adventure+Time,11
+Kids' TV,http://www.cartoonnetwork.co.uk/show/adventure-time,19
+Kids' TV,http://frederator.com/series/adventure-time/,28
+Kids' TV,http://www.youtube.com/watch?v=q0YkXmebAGM,5
+Kids' TV,http://www.nick.com/shows/power-rangers-samurai/,1
+Films,http://www.rottentomatoes.com/m/marvels_the_avengers/,5
+Films,http://www.youtube.com/watch?v=eOrNdBpGMv8,18
+Films,http://www.movieinsider.com/m4240/the-avengers/,11
+Films,http://movies.msn.com/movies/movie/marvel's-the-avengers/,26
+Films,http://www.imdb.com/title/tt0060028/,5
+Films,http://en.wikipedia.org/wiki/Star_Trek_(film),2
+Films,http://www.hulu.com/browse/picks/star-trek,13
+Films,http://www.hulu.com/browse/picks/star-trek,13
+Films,http://www.moviefone.com/movie/star-trek/29301/main,21
+Films,http://movies.yahoo.com/movie/pitch-perfect/,5
+Films,http://www.youtube.com/user/PitchPerfectMovie,3
+Films,http://boxofficemojo.com/movies/?id=pitchperfect.htm,14
+Films,http://www.fandango.com/pitchperfect_156075/moviereviews,17
+Films,http://www.stlyrics.com/p/pitchperfect.htm,29
+Films,http://franzpatrick.com/2013/10/20/after-earth/,3
+Films,http://movies.yahoo.com/movie/after-earth/,7
+Films,http://trailers.apple.com/trailers/sony_pictures/afterearth/,13
+Musical Artists,http://www.biography.com/people/chris-brown-265946,24
+Musical Artists,http://www.last.fm/music/Eminem,8
+Musical Artists,http://www.youtube.com/watch?v=j5-yKhDd64s,3
+Musical Artists,http://www.eminem.net/,11
+Musical Artists,http://www.answers.com/topic/eminem,16
+Musical Artists,http://www.askmen.com/celebs/men/entertainment/50_eminem.html,25
+Musical Artists,http://countdown.justintimberlake.com/,6
+Musical Artists,http://twentytwenty.justintimberlake.com/,9
+Musical Artists,http://movies.yahoo.com/person/justin-timberlake/,12
+Musical Artists,https://myspace.com/justintimberlake,13
+Musical Artists,http://www.lyrics.com/justintimberlake,25
+Musical Artists,http://en.wikipedia.org/wiki/Ariana_Grande,0
+Space objects,http://www.kidsastronomy.com/asteroid.htm,2
+Space objects,http://www.space.com/15948-asteroid-belt-space-rocks-infographic.html,12
+Space objects,http://www.howstuffworks.com/asteroid-belt.htm,18
+Space objects,http://www.princeton.edu/~achaney/tmve/wiki100k/docs/Asteroid_belt.html,25
+Space objects,http://dictionary.reference.com/browse/Pleiades,5
+Space objects,http://www.lightconnection.org/planetaryorigin/pleiades.html,3
+Space objects,http://www.kitezh.com/sevensisters/pleiades.htm,16
+Space objects,http://www.amazon.com/Pleiades/dp/B00006KSYO,12
+Space objects,http://pleiades.org/,21
+Space objects,http://hyperphysics.phy-astr.gsu.edu/HBase/Astro/andromeda.html,3
+Space objects,http://article.wn.com/view/2013/10/20/LA_Galaxy_vs_San_Jose_Earthquakes_MLS_Match_Preview_MLS_Majo/,8

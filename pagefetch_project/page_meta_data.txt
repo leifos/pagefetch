@@ -1,0 +1,38 @@
+BusinessPeople,http://www.achievement.org/autodoc/page/win0bio-1,Oprah Winfrey Biography -- Academy of Achievement,/Users/leif/Code/ifindapps/djangoapps/pagefetch_project/data/www-achievement-org-autodoc-page-win0bio-1.png
+BusinessPeople,http://www.achievement.org/autodoc/page/win0bio-1,Oprah Winfrey Biography -- Academy of Achievement,/Users/leif/Code/ifindapps/djangoapps/pagefetch_project/data/www-achievement-org-autodoc-page-win0bio-1.png
+BusinessPeople,http://www.oprah.com/index.html,Oprah.com,/Users/leif/Code/ifindapps/djangoapps/pagefetch_project/data/www-oprah-com-index-html.png
+BusinessPeople,http://ownca.oprah.com/Home.aspx,Home | OWN TV,/Users/leif/Code/ifindapps/djangoapps/pagefetch_project/data/ownca-oprah-com-Home-aspx.png
+BusinessPeople,http://www.achievement.org/autodoc/page/win0bio-1,Oprah Winfrey Biography -- Academy of Achievement,/Users/leif/Code/ifindapps/djangoapps/pagefetch_project/data/www-achievement-org-autodoc-page-win0bio-1.png
+BusinessPeople,http://www.achievement.org/autodoc/page/win0bio-1,Oprah Winfrey Biography -- Academy of Achievement,/Users/leif/Code/ifindapps/djangoapps/pagefetch_project/data/www-achievement-org-autodoc-page-win0bio-1.png
+BusinessPeople,http://www.oprah.com/index.html,Oprah.com,/Users/leif/Code/ifindapps/djangoapps/pagefetch_project/data/www-oprah-com-index-html.png
+BusinessPeople,http://ownca.oprah.com/Home.aspx,Home | OWN TV,/Users/leif/Code/ifindapps/djangoapps/pagefetch_project/data/ownca-oprah-com-Home-aspx.png
+BusinessPeople,http://www.huffingtonpost.com/news/oprah,Oprah: Pictures, Videos, Breaking News,/Users/leif/Code/ifindapps/djangoapps/pagefetch_project/data/www-huffingtonpost-com-news-oprah.png
+BusinessPeople,http://omg.yahoo.com/oprah-winfrey/,Oprah Winfrey News, Photos and Videos - Yahoo! omg!,/Users/leif/Code/ifindapps/djangoapps/pagefetch_project/data/omg-yahoo-com-oprah-winfrey-.png
+BusinessPeople,http://www.gatesfoundation.org/,Bill & Melinda Gates Foundation,/Users/leif/Code/ifindapps/djangoapps/pagefetch_project/data/www-gatesfoundation-org-.png
+BusinessPeople,http://en.wikipedia.org/wiki/Bill_Gates%27s_house,Bill Gates's house - Wikipedia, the free encyclopedia,/Users/leif/Code/ifindapps/djangoapps/pagefetch_project/data/en-wikipedia-org-wiki-Bill_Gates27s_house.png
+BusinessPeople,http://www.gatesfoundation.org/who-we-are/general-information/leadership/management-committee/bill-gates,,/Users/leif/Code/ifindapps/djangoapps/pagefetch_project/data/www-gatesfoundation-org-who-we-are-general-information-leadership-management-committee-bill-gates.png
+BusinessPeople,http://www.contactmusic.com/info/bono,Bono | Biography, News, Photos and Videos | Contactmusic.com,/Users/leif/Code/ifindapps/djangoapps/pagefetch_project/data/www-contactmusic-com-info-bono.png
+BusinessPeople,http://www.u2.com/index/home,U2 > Home,/Users/leif/Code/ifindapps/djangoapps/pagefetch_project/data/www-u2-com-index-home.png
+BusinessPeople,http://www.nndb.com/people/390/000024318/,Bono,/Users/leif/Code/ifindapps/djangoapps/pagefetch_project/data/www-nndb-com-people-390-000024318-.png
+BusinessPeople,http://www.askmen.com/celebs/men/entertainment/31_bono.html,Bono Celebrity Profile, News, Gossip & Photos - AskMen,/Users/leif/Code/ifindapps/djangoapps/pagefetch_project/data/www-askmen-com-celebs-men-entertainment-31_bono-html.png
+BusinessPeople,http://www.ted.com/speakers/bono.html,Bono | Speaker | TED.com,/Users/leif/Code/ifindapps/djangoapps/pagefetch_project/data/www-ted-com-speakers-bono-html.png
+BusinessPeople,http://acepilots.com/pioneer/hughes.html,Howard Hughes - Aviator, Movie Maker, Tycoon, Reclusive Billionaire,/Users/leif/Code/ifindapps/djangoapps/pagefetch_project/data/acepilots-com-pioneer-hughes-html.png
+BusinessPeople,http://www.apa.org/monitor/julaug05/hughes.aspx,,/Users/leif/Code/ifindapps/djangoapps/pagefetch_project/data/www-apa-org-monitor-julaug05-hughes-aspx.png
+BusinessPeople,http://www.barnesandnoble.com/s/howard-hughes?dref=18933,howard-hughes | Barnes & Noble,/Users/leif/Code/ifindapps/djangoapps/pagefetch_project/data/www-barnesandnoble-com-s-howard-hughesdref18933.png
+BusinessPeople,http://uncyclopedia.wikia.com/wiki/Howard_Hughes,Howard Hughes - Uncyclopedia, the content-free encyclopedia,/Users/leif/Code/ifindapps/djangoapps/pagefetch_project/data/uncyclopedia-wikia-com-wiki-Howard_Hughes.png
+BusinessPeople,http://en.wikipedia.org/wiki/Richard_Branson,Richard Branson - Wikipedia, the free encyclopedia,/Users/leif/Code/ifindapps/djangoapps/pagefetch_project/data/en-wikipedia-org-wiki-Richard_Branson.png
+Actors,http://www.huffingtonpost.com/news/amanda-bynes/,Amanda Bynes: Pictures, Videos, Breaking News,/Users/leif/Code/ifindapps/djangoapps/pagefetch_project/data/www-huffingtonpost-com-news-amanda-bynes-.png
+Actors,http://www.tmz.com/person/amanda-bynes/,Amanda Bynes News, Pictures, and Videos | TMZ.com,/Users/leif/Code/ifindapps/djangoapps/pagefetch_project/data/www-tmz-com-person-amanda-bynes-.png
+Actors,http://perezhilton.com/category/amanda-bynes/,Amanda Bynes News and Photos | Perez Hilton,/Users/leif/Code/ifindapps/djangoapps/pagefetch_project/data/perezhilton-com-category-amanda-bynes-.png
+Actors,http://www.tvguide.com/celebrities/amanda-bynes/139292,Amanda Bynes Celebrity | TVGuide.com,/Users/leif/Code/ifindapps/djangoapps/pagefetch_project/data/www-tvguide-com-celebrities-amanda-bynes-139292.png
+Actors,http://www.eonline.com/news/selena_gomez,Selena Gomez News, Pictures, and Videos | E! Online UK,/Users/leif/Code/ifindapps/djangoapps/pagefetch_project/data/www-eonline-com-news-selena_gomez.png
+Actors,https://myspace.com/selenagomez,Selena Gomez | Listen and Stream Free Music, Albums, New Releases, Photos, Videos,/Users/leif/Code/ifindapps/djangoapps/pagefetch_project/data/https--myspace-com-selenagomez.png
+Actors,http://www.youtube.com/watch?v=EgT_us6AsDg,,/Users/leif/Code/ifindapps/djangoapps/pagefetch_project/data/www-youtube-com-watchvEgT_us6AsDg.png
+Actors,http://www.tvballa.com/2013/07/100313/selena-gomez-parties-david-henrie-after-justin-bieber-reunion,,/Users/leif/Code/ifindapps/djangoapps/pagefetch_project/data/www-tvballa-com-2013-07-100313-selena-gomez-parties-david-henrie-after-justin-bieber-reunion.png
+Actors,http://www.popsugar.com/Selena-Gomez,Selena Gomez | POPSUGAR Celebrity,/Users/leif/Code/ifindapps/djangoapps/pagefetch_project/data/www-popsugar-com-Selena-Gomez.png
+Actors,http://www.eonline.com/news/angelina_jolie,Angelina Jolie News, Pictures, and Videos | E! Online UK,/Users/leif/Code/ifindapps/djangoapps/pagefetch_project/data/www-eonline-com-news-angelina_jolie.png
+Actors,http://omg.yahoo.com/angelina-jolie/,Angelina Jolie News, Photos and Videos - Yahoo! omg!,/Users/leif/Code/ifindapps/djangoapps/pagefetch_project/data/omg-yahoo-com-angelina-jolie-.png
+Actors,http://movies.msn.com/celebrities/celebrity/angelina-jolie/,Showtimes, reviews, trailers, news and more - MSN Movies,/Users/leif/Code/ifindapps/djangoapps/pagefetch_project/data/movies-msn-com-celebrities-celebrity-angelina-jolie-.png
+Actors,http://www.accesshollywood.com/angelina-jolie,,/Users/leif/Code/ifindapps/djangoapps/pagefetch_project/data/www-accesshollywood-com-angelina-jolie.png
+Actors,http://perezhilton.com/category/miley-cyrus/,Miley Cyrus News and Photos | Perez Hilton,/Users/leif/Code/ifindapps/djangoapps/pagefetch_project/data/perezhilton-com-category-miley-cyrus-.png
+Actors,http://www.mileycyrus.com/,Miley Cyrus,/Users/leif/Code/ifindapps/djangoapps/pagefetch_project/data/www-mileycyrus-com-.png
